@@ -1,0 +1,15 @@
+.price {
+    display: flex;
+    justify-content: space-between;
+}
+
+.total {
+    font-size: 18px;
+    color: rgb(119, 18, 18);
+    font-weight: 700;
+}
+
+.price-container {
+    line-height: 5px;
+}
+
